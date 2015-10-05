@@ -1,0 +1,8 @@
+{
+    "url": "http://localhost:8084/",
+    "maxRequests": 500,
+    "concurrency": 5,
+    "headers": {
+        "Authenticated-UserId": "juser"
+    }
+}
